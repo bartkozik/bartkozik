@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bartkozik
 - 👀 I’m interested in Hip-Hop music, reading (all kind of books but especially fantasy and science fiction), cooking and Skateboarding
 - 🌱 I’m Junior in TypeScript/React, Python/Django and SQL
-- 💞️ I’m looking to collaborate on projects for Juniors in Python, JS or Full Stack
-- 🪐 Check my LinkedIn profile: www.linkedin.com/in/bartosz-kozikowski
+- 💞️ I’m looking to collaborate on projects for Juniors in React(Typescript), Python/Django or Full Stack 😎
+- - 🪐 Check my LinkedIn profile: www.linkedin.com/in/bartosz-kozikowski
 - 📫 How to reach me: kozikowskib@gmail.com
