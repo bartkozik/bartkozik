@@ -1,6 +1,6 @@
 👋 Hi, I’m Bartosz
 
-I'm a frontend developer who loves building **well-structured, interactive UIs**. I’ve worked on real-world products across domains like **time tracking**, **NFT marketplaces**, **AI-generated ad creatives**, and **nonprofit matchmaking platforms**.
+I'm a frontend developer who loves building **well-structured, interactive UIs**. I’ve worked on commercial projects across domains like **time tracking**, **NFT marketplaces**, **AI-generated ad creatives**, and **nonprofit matchmaking platforms**.
 
 Currently focusing on **React + TypeScript** apps with rich form logic, strong validation, and clean component architectures.
 
