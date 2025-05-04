@@ -37,6 +37,16 @@ Fast, reliable, type-safe and flexible – works great from MVP to production.
 
 ---
 
+### 🧠 Soft skills I bring
+
+- 🤝 Strong **communication** – with dev teams, testers, designers and clients
+- 🧩 Problem-solver – able to **analyze, propose and implement solutions** fast
+- 🎯 **Accountability & ownership** – I deliver what I promise, take initiative, and care about quality
+- ⏱️ Solid **time management** – I stay organized and reliable even in dynamic environments
+- 🔍 Curious and proactive – I dig through documentation and edge cases when others stop
+
+---
+
 ### 👀 Off the screen
 
 When I’m not coding, I’m probably:
