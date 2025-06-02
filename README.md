@@ -14,6 +14,8 @@ Currently focusing on **React + TypeScript** apps with rich form logic, strong v
 - 🎨 Template-driven ad creation tools integrated with AI engines
 - 📊 Prototypes for presales – UI experiments & tech stack comparisons
 
+- MORE INFO https://github.com/bartkozik?tab=repositories
+
 ---
 
 ### 🛠️ My stack (and why I like it)
