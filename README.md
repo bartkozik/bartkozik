@@ -18,6 +18,32 @@ Currently focusing on **React + TypeScript** apps with rich form logic, strong v
 
 ---
 
+### 📂 Key Projects (NDA & public)
+
+💼 **Presales UI Prototype (Accounting SaaS)**  
+Built one of three stack prototypes (React + Mantine + Vite) with dashboards, forms, charts. Helped guide tech stack decisions.
+
+👥 **Nonprofit-Tech Matchmaking Platform**  
+Developed multi-step forms and organization admin views (React + MobX + Zod). Strong client collaboration and logic-heavy forms.
+
+🎨 **AI-Powered Ad Template Engine**  
+Led development of dynamic, multilingual ad templates rendered in a visual canvas (React + opentype.js + pixelmatch).
+
+🖼️ **Art Marketplace – Banking Module**  
+Implemented KYC flow, secure document handling, and transaction dashboards for internal banking use (React + Mantine).
+
+⏱️ **Time Tracking Platform**  
+Sole frontend dev for 6 months. Built full UI, architecture, animations, forms, and i18n (React + MobX + Zod + Playwright).
+
+🔗 **NFT Marketplace**  
+Created Web3 login (wagmi + RainbowKit) and portfolio dashboard. Worked with brutalist UI and minimal design specs.
+
+🌐 **Time tracking App Landing Page (Public)**  
+Developed animated landing with custom scroll logic and responsive layout from scratch (Next.js 14 + SCSS + Framer Motion).  
+Proposed and implemented the entire responsive layout, as mobile views were not included in the original design.
+
+---
+
 ### 🛠️ My stack (and why I like it)
 
 | Area                  | Tools I Use                                           |
