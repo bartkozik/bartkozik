@@ -1,89 +1,101 @@
-👋 Hi, I’m Bartosz
+# 👋 Hi, I’m Bartosz
 
-I'm a frontend developer who loves building **well-structured, interactive UIs**. I’ve worked on commercial projects across domains like **time tracking**, **NFT marketplaces**, **AI-generated ad creatives**, and **nonprofit matchmaking platforms**.
+I'm a **software engineer focused on modern TypeScript applications**.  
+My main strength is building **well-structured, interactive user interfaces**, but I also work across the stack — including **backend services, integrations and DevOps workflows**.
 
-Currently focusing on **React + TypeScript** apps with rich form logic, strong validation, and clean component architectures.
+I’ve worked on commercial projects across domains like **time tracking**, **NFT marketplaces**, **AI-generated ad creatives**, **fintech systems**, and **nonprofit platforms**.
 
----
-
-### 💼 What I build
-
-- 🧩 Dynamic forms with nested logic, conditionals & schema validation (React Hook Form + Zod)
-- 🏢 Custom dashboards & admin panels for organizations, banks & nonprofits
-- 🔐 Wallet-based login systems (Web3 / wagmi / RainbowKit)
-- 🎨 Template-driven ad creation tools integrated with AI engines
-- 📊 Prototypes for presales – UI experiments & tech stack comparisons
-
-- MORE INFO https://github.com/bartkozik?tab=repositories
+Currently focusing on **React + TypeScript ecosystems**, building applications with strong architecture, rich UI interactions and scalable backend integrations.
 
 ---
 
-### 📂 Key Projects (NDA & public)
+## 💼 What I build
 
-💼 **Presales UI Prototype (Accounting SaaS)**  
-Built one of three stack prototypes (React + Mantine + Vite) with dashboards, forms, charts. Helped guide tech stack decisions.
+- 🧩 Dynamic form systems with complex validation and nested logic  
+- 🏢 Admin panels and dashboards for organizations, fintech and SaaS platforms  
+- 🔐 Authentication systems including **Web3 wallet login**  
+- 🎨 Template engines for **AI-generated marketing creatives**  
+- 🔌 API integrations, automation workflows and backend services in **TypeScript / Node.js**  
+- ⚙️ CI/CD pipelines, containerized deployments and infrastructure workflows
 
-👥 **Nonprofit-Tech Matchmaking Platform**  
-Developed multi-step forms and organization admin views (React + MobX + Zod). Strong client collaboration and logic-heavy forms.
-
-🎨 **AI-Powered Ad Template Engine**  
-Led development of dynamic, multilingual ad templates rendered in a visual canvas (React + opentype.js + pixelmatch).
-
-🖼️ **Art Marketplace – Banking Module**  
-Implemented KYC flow, secure document handling, and transaction dashboards for internal banking use (React + Mantine).
-
-⏱️ **Time Tracking Platform**  
-Sole frontend dev for 6 months. Built full UI, architecture, animations, forms, and i18n (React + MobX + Zod + Playwright).
-
-🔗 **NFT Marketplace**  
-Created Web3 login (wagmi + RainbowKit) and portfolio dashboard. Worked with brutalist UI and minimal design specs.
-
-🌐 **Time tracking App Landing Page (Public)**  
-Developed animated landing with custom scroll logic and responsive layout from scratch (Next.js 14 + SCSS + Framer Motion).  
-Proposed and implemented the entire responsive layout, as mobile views were not included in the original design.
+More projects:  
+👉 https://github.com/bartkozik?tab=repositories
 
 ---
 
-### 🛠️ My stack (and why I like it)
+## 📂 Selected Projects (NDA & public)
 
-| Area                  | Tools I Use                                           |
-|-----------------------|--------------------------------------------------------|
-| ⚛️ **Frontend**         | React 18/19, Vite, Next.js, TypeScript               |
-| 💡 **State**            | Zustand, MobX (used in complex forms & config UIs)   |
-| 🧾 **Forms & validation** | React Hook Form + Zod (schema-first, scalable)       |
-| 📦 **Tooling**          | ESLint, Prettier, SVGO, pnpm/Yarn, Storybook         |
-| 🧪 **Testing**          | Vitest, Jest, Playwright, Testing Library            |
-| 🌍 **i18n & formatting** | i18next, ICU, date-fns, intl-messageformat           |
-| 🎛️ **Special cases**     | `@dnd-kit`, opentype.js, pixelmatch, morphdom        |
+### 💼 Presales UI Prototype (Accounting SaaS)
+Built one of three stack prototypes (React + Mantine + Vite) including dashboards, forms and charts. The prototype helped guide the **final technology stack decision**.
 
----
+### 👥 Nonprofit–Tech Matchmaking Platform
+Developed complex multi-step onboarding flows and organization dashboards (React + MobX + Zod). Heavy focus on **logic-driven forms and validation**.
 
-### 💙 Favorite stack combo
+### 🎨 AI-Powered Ad Template Engine
+Worked on a system generating thousands of **dynamic ad creatives** using template definitions rendered in a visual canvas.  
+Stack: React, TypeScript, opentype.js, pixelmatch.
 
-**React + TypeScript + Zod + RHF + Vite**  
-Fast, reliable, type-safe and flexible – works great from MVP to production.
+### 🖼️ Art Marketplace – Banking Module
+Implemented **KYC flows, secure document handling and transaction dashboards** for internal banking users.
 
----
+### ⏱️ Time Tracking Platform
+Sole frontend developer for ~6 months. Designed and implemented the full UI architecture including forms, animations, i18n and testing.
 
-### 🧠 Soft skills I bring
+### 🔗 NFT Marketplace
+Implemented **wallet-based authentication** (wagmi + RainbowKit) and a user portfolio dashboard. Worked with minimal design specs and brutalist UI.
 
-- 🤝 Strong **communication** – with dev teams, testers, designers and clients
-- 🧩 Problem-solver – able to **analyze, propose and implement solutions** fast
-- 🎯 **Accountability & ownership** – I deliver what I promise, take initiative, and care about quality
-- ⏱️ Solid **time management** – I stay organized and reliable even in dynamic environments
-- 🔍 Curious and proactive – I dig through documentation and edge cases when others stop
+### 🌐 Time Tracking App Landing Page (Public)
+Developed a fully responsive animated landing page from scratch (Next.js + SCSS + Framer Motion).  
+Proposed and implemented the **entire responsive layout**, as mobile views were not provided in the design.
 
 ---
 
-### 👀 Off the screen
+## 🛠️ Tech Stack
+
+| Area | Tools |
+|-----|------|
+| ⚛️ Frontend | React 18/19, Next.js, Vite, TypeScript |
+| 🧠 State | Zustand, MobX |
+| 🧾 Forms | React Hook Form, Zod |
+| 🧩 Backend | Node.js, TypeScript APIs |
+| ⚙️ DevOps | Docker, CI/CD pipelines, Git workflows |
+| 🧪 Testing | Vitest, Jest, Playwright |
+| 🌍 i18n | i18next, ICU, date-fns |
+| 🎛️ Specialized | @dnd-kit, opentype.js, pixelmatch, morphdom |
+
+---
+
+## 💙 Favorite stack
+
+**React + TypeScript + Zod + React Hook Form + Vite**
+
+Fast, scalable and type-safe — great both for **rapid prototyping and production systems**.
+
+---
+
+## 🧠 Soft skills
+
+- 🤝 Strong **communication** with developers, designers and clients  
+- 🧩 Analytical problem solving — I like digging into complex systems  
+- 🎯 Ownership & accountability for delivered features  
+- ⏱️ Solid time management and reliability  
+- 🔍 Curiosity — I enjoy exploring documentation, edge cases and new tools
+
+---
+
+## 👀 Off the screen
 
 When I’m not coding, I’m probably:
-- 🎧 Listening to Hip-Hop
-- 📚 Diving into sci-fi or fantasy books
-- 🛹 Skateboarding
+
+- 🎧 Listening to Hip-Hop  
+- 📚 Reading sci-fi or fantasy  
+- 🛹 Skateboarding  
 - 👨‍🍳 Cooking something spicy
 
 ---
 
-🪐 [Find me on LinkedIn](https://www.linkedin.com/in/bartosz-kozikowski)  
-📫 Reach me at: **kozikowskib@gmail.com**
+🪐 LinkedIn  
+https://www.linkedin.com/in/bartosz-kozikowski  
+
+📫 Contact  
+**kozikowskib@gmail.com**
