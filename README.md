@@ -77,6 +77,7 @@ Fast, scalable and type-safe — great both for **rapid prototyping and producti
 
 When I’m not coding, I’m probably:
 
+- 🏌️ Playing golf 
 - 🎧 Listening to Hip-Hop  
 - 📚 Reading sci-fi or fantasy  
 - 🛹 Skateboarding  
