@@ -1,11 +1,8 @@
 # 👋 Hi, I’m Bartosz
 
-I'm a **frontend developer focused on React and TypeScript applications**.  
-My main strength is building **well-structured, interactive user interfaces**, but I also work across the stack — including **backend services, integrations and DevOps workflows**.
+Full stack developer focused on **React, TypeScript, Node.js and PostgreSQL**. My commercial web development experience began in 2018 with WordPress and e-commerce.
 
-I’ve worked on commercial projects across domains like **time tracking**, **NFT marketplaces**, **AI-generated ad creatives**, **fintech systems**, and **nonprofit platforms**.
-
-My recent work focuses on **reusable UI components, keyboard accessibility and ARIA, internationalization, automated testing and frontend performance**. I also bring experience in B2B project delivery and collaboration with designers and backend developers.
+I build interfaces, APIs and reporting workflows, with attention to accessibility, shared domain logic and automated tests. Based in Warsaw; open to remote work or hybrid roles in Warsaw. English C1.
 
 ---
 
@@ -25,42 +22,18 @@ More projects:
 
 ---
 
-## 📂 Selected Projects
+## 📂 Selected project source
 
-These repositories are **portfolio case studies**. They describe my contribution to private projects without publishing implementation code or client data.
+These repositories contain sanitized source snapshots of real commercial applications. Their READMEs describe the architecture, local setup, verification limits and my contribution alongside the team's work.
 
-### ⏱️ [Time Tracking and Reporting](https://github.com/bartkozik/time-tracker-client)
-Initial frontend architecture plus recent work on **pivot reports, billing workflows, accessible shared controls, Polish and English localization, and Playwright regression coverage**.  
-React, TypeScript, MobX, TanStack Query, SCSS, i18next, Testing Library, Vitest, Playwright.
+| Project | Application and contribution | Source |
+| --- | --- | --- |
+| **PM Traffic Manager** | Staffing, capacity and financial planning. Independently built end to end with React, TypeScript, Fastify and PostgreSQL. | [Monorepo](https://github.com/bartkozik/pm-traffic-manager) |
+| **EPOCA** | Time tracking, worklog corrections and configurable reports. Main frontend developer for approximately three years; AI-assisted contributions to the existing Scala backend during the last year. | [Frontend](https://github.com/bartkozik/epoca-frontend) · [Backend](https://github.com/bartkozik/epoca-backend) |
+| **Board.Dev** | Nonprofit board matching, application forms and administration. Frontend team member, working directly with the client; the team backend provides integration context. | [Frontend](https://github.com/bartkozik/board-dev-frontend) · [Team backend](https://github.com/bartkozik/board-dev-backend) |
+| **CELINA** | Editable WordPress website with custom Gutenberg components. Sole developer from concept through implementation and deployment, working directly with the client. | [WordPress source](https://github.com/bartkozik/celina-website) |
 
-### 🌱 [Nonprofit Platform Redesign](https://github.com/bartkozik/nonprofit-platform-redesign)
-Responsive fundraising, organization, help and blog interfaces built from Figma designs. Emphasis on **shared components, design system consistency, SCSS mixins and localization**.
-
-### 🗓️ [Resource Planning and Collaboration Board](https://github.com/bartkozik/resource-planning-board)
-Interactive allocation boards with **multi-select drag and drop, collaboration presence, memoized rendering and explicit API save states**.  
-React, TypeScript, Yjs, CSS and component tests.
-
-### 🎨 [AI-Powered Ad Creative Platform](https://github.com/bartkozik/ad-platform)
-Dynamic ad templates and interactive editing, with recent work on **gradient controls, shared state-update utilities and brand configuration workflows**.  
-React, TypeScript, opentype.js, pixelmatch, Vitest and Playwright.
-
-### 🌐 [Corporate Website and Content Editing](https://github.com/bartkozik/corporate-website-redesign)
-Responsive website refinements, reusable Gutenberg blocks and improvements that **preserve text formatting during content editing**, supported by regression tests and editor documentation.
-
-### 👥 [Nonprofit–Tech Matchmaking Platform](https://github.com/bartkozik/matchmaking-platform)
-Multi-step onboarding and organization dashboards with **React Hook Form, Zod, MobX and Mantine**, plus **Storybook component documentation** and automated testing.
-
-### 💼 [Accounting SaaS Presales Prototype](https://github.com/bartkozik/accounting-system-presales)
-One of three frontend stack prototypes, using **React, Mantine and Vite** to demonstrate dashboards, forms and charts and support technology selection.
-
-### 🖼️ [Art Marketplace Banking Module](https://github.com/bartkozik/art-market)
-KYC flows, document handling and transaction dashboards for internal banking users.
-
-### 🔗 [NFT Marketplace](https://github.com/bartkozik/nft-market)
-Wallet-based authentication with **wagmi and RainbowKit**, plus a user portfolio dashboard.
-
-### 🚀 [Time Tracking App Landing Page](https://github.com/bartkozik/next-js-landing-page)
-A responsive animated landing page built with **Next.js, SCSS and Framer Motion**, including mobile layouts developed from desktop design references.
+Other project write-ups: [FaniMani](https://github.com/bartkozik/nonprofit-platform-redesign) · [Ad creative platform](https://github.com/bartkozik/ad-platform) · [Accounting prototype](https://github.com/bartkozik/accounting-system-presales) · [Art marketplace](https://github.com/bartkozik/art-market) · [Liquid Editions](https://github.com/bartkozik/nft-market) · [Next.js landing page](https://github.com/bartkozik/next-js-landing-page).
 
 ---
 
@@ -73,7 +46,7 @@ A responsive animated landing page built with **Next.js, SCSS and Framer Motion*
 | 🎨 UI and styling | Semantic HTML, CSS, SCSS, reusable components, Storybook, Mantine |
 | ♿ Accessibility | Keyboard navigation, focus handling, ARIA |
 | 🧾 Forms | React Hook Form, Zod |
-| 🧩 Backend | Node.js, TypeScript APIs |
+| 🧩 Backend | Node.js, Fastify, TypeScript APIs, PostgreSQL |
 | ⚙️ DevOps | Docker, CI/CD pipelines, Git workflows |
 | 🧪 Testing | React Testing Library, Vitest, Jest, Playwright, pixelmatch |
 | 🌍 i18n | i18next, ICU, date-fns |
