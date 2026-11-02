@@ -30,10 +30,11 @@ These repositories contain sanitized source snapshots of real commercial applica
 | --- | --- | --- |
 | **PM Traffic Manager** | Staffing, capacity and financial planning. Independently built end to end with React, TypeScript, Fastify and PostgreSQL. | [Monorepo](https://github.com/bartkozik/pm-traffic-manager) |
 | **EPOCA** | Time tracking, worklog corrections and configurable reports. Main frontend developer for approximately three years; AI-assisted contributions to the existing Scala backend during the last year. | [Frontend](https://github.com/bartkozik/epoca-frontend) · [Backend](https://github.com/bartkozik/epoca-backend) |
+| **EPOCA landing page** | Sole developer of the complete Next.js marketing site, including responsive sections, animations and reusable components. | [Next.js source](https://github.com/bartkozik/next-js-landing-page) |
 | **Board.Dev** | Nonprofit board matching, application forms and administration. Frontend team member, working directly with the client. | [Frontend](https://github.com/bartkozik/board-dev-frontend) 
 | **CELINA** | Editable WordPress website with custom Gutenberg components. Sole developer from concept through implementation and deployment, working directly with the client. | [WordPress source](https://github.com/bartkozik/celina-website) |
 
-Other project write-ups: [FaniMani](https://github.com/bartkozik/nonprofit-platform-redesign) · [Ad creative platform](https://github.com/bartkozik/ad-platform) · [Accounting prototype](https://github.com/bartkozik/accounting-system-presales) · [Art marketplace](https://github.com/bartkozik/art-market) · [Liquid Editions](https://github.com/bartkozik/nft-market) · [Next.js landing page](https://github.com/bartkozik/next-js-landing-page).
+Other project write-ups: [FaniMani](https://github.com/bartkozik/nonprofit-platform-redesign) · [Ad creative platform](https://github.com/bartkozik/ad-platform) · [Accounting prototype](https://github.com/bartkozik/accounting-system-presales) · [Art marketplace](https://github.com/bartkozik/art-market) · [Liquid Editions](https://github.com/bartkozik/nft-market).
 
 ---
 
