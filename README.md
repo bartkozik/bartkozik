@@ -4,6 +4,8 @@ Full stack developer focused on **React, TypeScript, Node.js and PostgreSQL**. M
 
 I build interfaces, APIs and reporting workflows, with attention to accessibility, shared domain logic and automated tests. Based in Warsaw; open to remote work or hybrid roles in Warsaw. English C1.
 
+🌐 **My portfolio:** [kozikowski.it](https://kozikowski.it) — selected projects and interactive demos.
+
 ---
 
 ## 💼 What I build
